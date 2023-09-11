@@ -1,1 +1,1 @@
-# gotorrent
+# GoTorrent
