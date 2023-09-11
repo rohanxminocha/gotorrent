@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/rohnxminocha/gotorrent/client"
+	"github.com/rohanxminocha/gotorrent/client"
 )
 
 func initializeLogger() *os.File {
